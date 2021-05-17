@@ -9,13 +9,13 @@ Phone input box for React Native
 ## Installation
 
 ```
-npm i react-native-phone-input --save
+npm i react-native-phone-input-validation --save
 ```
 
 ## Basic Usage
 
 ```jsx
-import PhoneInput from 'react-native-phone-input'
+import PhoneInput from 'react-native-phone-input-validation'
 
 render(){
     return(
@@ -24,7 +24,7 @@ render(){
 }
 ```
 
-[see full basic example](https://github.com/thegamenicorus/react-native-phone-input/blob/master/examples/BasicExample/app.js)
+[see full basic example](https://github.com/imonk777/react-native-phone-input-validation/blob/master/examples/BasicExample/app.js)
 
 ## Custom Your Own Picker
 
@@ -71,7 +71,7 @@ render(){
 }
 ```
 
-[see full custom picker example](https://github.com/thegamenicorus/react-native-phone-input/blob/master/examples/CustomPicker/app.js)
+[see full custom picker example](https://github.com/imonk777/react-native-phone-input-validation/blob/master/examples/CustomPicker/app.js)
 
 ## Custom Library Picker
 
@@ -112,7 +112,7 @@ render(){
 }
 ```
 
-[see full custom library picker example](https://github.com/thegamenicorus/react-native-phone-input/blob/master/examples/CustomLibraryPicker/app.js)
+[see full custom library picker example](https://github.com/imonk777/react-native-phone-input-validation/blob/master/examples/CustomLibraryPicker/app.js)
 
 ## Custom Countries
 

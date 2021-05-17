@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { StyleSheet, View } from 'react-native';
 
-import PhoneInput from 'react-native-phone-input';
+import PhoneInput from 'react-native-phone-input-validation';
 import ModalPickerImage from './ModalPickerImage';
 
 class App extends Component {

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { StyleSheet, View } from 'react-native';
 
-import PhoneInput from 'react-native-phone-input';
+import PhoneInput from 'react-native-phone-input-validation';
 import CountryPicker from 'react-native-country-picker-modal';
 
 class App extends Component {

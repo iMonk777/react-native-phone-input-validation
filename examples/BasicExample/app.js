@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { StyleSheet, Text, View, TouchableOpacity } from "react-native";
 
-import PhoneInput from "react-native-phone-input";
+import PhoneInput from "react-native-phone-input-validation";
 
 class App extends Component {
   constructor() {
